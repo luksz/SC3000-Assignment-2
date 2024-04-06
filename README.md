@@ -18,4 +18,12 @@ Enter these three lines into Prolog Enviroment:
 
 - line_of_succession(LineOfSuccession).
 
+### Question 2 Part 2
+Enter these three lines into Prolog Enviroment:
+
+- find_new_succession_line(SuccessionLine).
+
+- trace.
+
+- find_new_succession_line(SuccessionLine).
 
