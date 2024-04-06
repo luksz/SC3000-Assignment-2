@@ -5,6 +5,7 @@ To reinforce the understanding on the use of Prolog as a tool of logic programmi
 Enter these two line into Prolog Enviroment:
 
 unethical(stevey).
+
 trace.
 unethical(stevey).
 
