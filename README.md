@@ -2,11 +2,10 @@
 To reinforce the understanding on the use of Prolog as a tool of logic programming and the specification of declarative knowledge – semantic information. 
 
 Question 1 part 3
-Query by firstly by:
+enter these two line into Prolog Enviroment
 
 unethical(stevey).
 
-Followed by:
 trace.
 unethical(stevey).
 
