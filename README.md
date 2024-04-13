@@ -4,9 +4,11 @@ To reinforce the understanding on the use of Prolog as a tool of logic programmi
 ### Question 1 Part 3
 Enter these two lines into Prolog Enviroment:
 
-``` unethical(stevey). ```
+``` unethical(stevey).
 
-``` trace.
+```
+
+``` trace. 
 unethical(stevey).
 ```
 
