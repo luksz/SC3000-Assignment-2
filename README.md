@@ -20,18 +20,38 @@ unethical(stevey).
 ### Question 2 Part 1
 Enter these three lines into Prolog Enviroment:
 
-``` line_of_succession(LineOfSuccession). ```
+```bash
 
-``` trace. ```
+line_of_succession(LineOfSuccession).
 
-``` line_of_succession(LineOfSuccession). ```
+```
+
+```bash
+
+trace.
+
+```
+
+```bash
+
+line_of_succession(LineOfSuccession).
+
+```
 
 ### Question 2 Part 2
 Enter these three lines into Prolog Enviroment:
 
- find_new_succession_line(SuccessionLine). 
+ ```bash
+ 
+ find_new_succession_line(SuccessionLine).
+
+```
+
+```bash
 
  trace. 
 
- find_new_succession_line(SuccessionLine). 
+ find_new_succession_line(SuccessionLine).
+
+```
 
