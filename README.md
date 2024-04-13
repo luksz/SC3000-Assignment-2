@@ -8,6 +8,11 @@ Enter these two lines into Prolog Enviroment:
 ```bash
 
 trace. 
+
+```
+
+```bash
+
 unethical(stevey).
 
 ```
@@ -32,9 +37,12 @@ Enter these three lines into Prolog Enviroment:
 
 ```bash
 
- trace. 
-
- find_new_succession_line(SuccessionLine).
+trace.
 
 ```
 
+```bash
+
+line_of_succession(LineOfSuccession).
+
+```
