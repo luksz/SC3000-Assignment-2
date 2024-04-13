@@ -4,12 +4,17 @@ To reinforce the understanding on the use of Prolog as a tool of logic programmi
 ### Question 1 Part 3
 Enter these two lines into Prolog Enviroment:
 
-``` unethical(stevey).
+```bash
+
+unethical(stevey).
 
 ```
 
-``` trace. 
+```bash
+
+trace. 
 unethical(stevey).
+
 ```
 
 ### Question 2 Part 1
@@ -24,9 +29,9 @@ Enter these three lines into Prolog Enviroment:
 ### Question 2 Part 2
 Enter these three lines into Prolog Enviroment:
 
-``` find_new_succession_line(SuccessionLine). ```
+ find_new_succession_line(SuccessionLine). 
 
-``` trace. ```
+ trace. 
 
-``` find_new_succession_line(SuccessionLine). ```
+ find_new_succession_line(SuccessionLine). 
 
