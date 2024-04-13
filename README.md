@@ -18,7 +18,7 @@ unethical(stevey).
 ```
 
 ### Question 2 Part 1
-Enter these three lines into Prolog Enviroment:
+Enter these two lines into Prolog Enviroment:
 
 ```bash
 
@@ -33,7 +33,7 @@ line_of_succession(LineOfSuccession).
 ```
 
 ### Question 2 Part 2
-Enter these three lines into Prolog Enviroment:
+Enter these two lines into Prolog Enviroment:
 
 ```bash
 
